@@ -4,7 +4,7 @@ This is just for learning and executing github commands
 
 ## commands 
 
-* git clone <<url>> 				//pull repository in
+* git clone [URL] 				//pull repository in
 * git status 						//view differences between local and remote files
 * git add [name || . || -A]		//add changes or files by name or all
 * git commit [-m "type message"]	//lock in added changes
